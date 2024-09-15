@@ -5,7 +5,7 @@ I'm all about diving into:
 - `📊 Data Analytics`
 - `🤖 AI/ML`
 
-Let's collaborate and build something ✨ _amazing_ ✨
+Let's collaborate and build something ✨ _AMAZING_ ✨
 
 <!---
 **wanghungjen/wanghungjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
