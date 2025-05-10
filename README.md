@@ -1,11 +1,20 @@
-Welcome to my GitHub!! 🤗
+<h1 align="center"> Welcome to my GitHub 👋</h1>
 
-I'm all about diving into:
-- `💻 Software Engineering`
-- `📊 Data Analytics`
-- `🤖 AI/ML`
+<p align="center">
+  I'm all about diving into:<br>
+  <code>💻 Software Engineering</code> • 
+  <code>📊 Data Analytics</code> • 
+  <code>🤖 AI/ML</code>
+</p>
 
-Let's collaborate and build something ✨ _AMAZING_ ✨.
+<p align="center">
+  Let's collaborate and build something <strong>✨ AMAZING ✨</strong>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanghungjen&theme=tokyonight&hide_border=true" alt="wanghungjen's GitHub Streak" />
+</p>
+
 
 <!---
 **wanghungjen/wanghungjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
