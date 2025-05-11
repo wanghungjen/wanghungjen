@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my GitHub </h1>
 
 <p align="center">
-  I'm all about diving into:<br>
+  I'm all about diving into<br>
   <code>💻 Software Engineering</code> • 
   <code>📊 Data Analytics</code> • 
   <code>🤖 AI/ML</code>
