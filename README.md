@@ -9,4 +9,4 @@ Currently, I'm exploring optimization methods for machine learning, representati
 ## Find me around the web 🌎
 
 * GitHub for projects and open-source work
-* LinkedIn for professional updates 💼
+* [LinkedIn](https://www.linkedin.com/in/hungjenwang/) for professional updates 💼
