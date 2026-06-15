@@ -6,6 +6,16 @@ My work sits at the intersection of mathematics and AI, ranging from spatiotempo
 
 Currently, I'm exploring optimization methods for machine learning, representation learning for biological data, and autonomous robotics systems. Long term, I'm interested in pursuing research in machine learning, optimization, and applied mathematics.
 
+## Tech Stack
+
+**Languages:** Python, C++, Java, SQL, JavaScript/TypeScript
+
+**Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain
+
+**Data Science & Research:** Pandas, NumPy, Scanpy, Matplotlib, Optuna
+
+**Infrastructure & Tools:** Linux, Git, Docker, HPC Clusters, ROS
+
 ## Find me around the web 🌎
 
 * [GitHub](https://github.com/wanghungjen) for projects and open-source work
