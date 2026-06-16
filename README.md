@@ -4,7 +4,7 @@ I'm a recent Applied Math–CS graduate from Brown University. Currently a Fifth
 
 My work revolves around the various aspects of applied mathematics, ranging from cellular representation learning to multi-agent LLM systems, quadruped robotic SLAMs, and scientific computings. I enjoy working on systems that combine theoretical concepts with practical impacts, especially in areas where machine learning can support us in understanding complex, real-world phenomena.
 
-Currently, I'm continuing to explore optimization/representation methods for spatiotemporal transcriptomics, particularly neural ODE/PDE mechanisms. Long-term wise, I look forward to pursuing work in data-driven systems and mathematical machine learning.
+Currently, I'm continuing to explore optimization/representation methods for spatiotemporal transcriptomics, particularly neural ODE/PDE mechanisms. Long-term wise, I look forward to pursuing work in data-driven systems and applicable machine learning.
 
 ## Tech Stack
 
