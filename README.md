@@ -20,3 +20,4 @@ Currently, I'm continuing to explore optimization/representation methods for spa
 
 * [GitHub](https://github.com/wanghungjen) for projects and open-source work
 * [LinkedIn](https://www.linkedin.com/in/hungjenwang) for professional updates
+* [Personal Website](https://wanghungjen.github.io) for more information
